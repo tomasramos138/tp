@@ -14,7 +14,7 @@
 *2 a 6 líneas describiendo el negocio (menos es más)*
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](https://github.com/utnfrrodsw/tp/pull/164#issuecomment-3416262854)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
