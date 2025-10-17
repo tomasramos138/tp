@@ -6,17 +6,15 @@
 * 52365 - Echeveste, Luciana
 * 52216 - Ramos, Tomás 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [frontend app](https://github.com/tomasramos138/supermercado-front-js)
+* [backend app](https://github.com/tomasramos138/supermercado-backend)
 
 ## Tema
 ### Descripción
 *Este sistema está diseñado para optimizar la gestión de ventas en supermercados, permitiendo a los usuarios registrarse y realizar compras desde la comodidad de su hogar. Además, cada cliente puede ser asignado a un distribuidor específico, mejorando así la eficiencia en la entrega y la organización interna del negocio.*
 
 ### Modelo
-![Tp_DesarrolloFinal](https://github.com/user-attachments/assets/a8636253-781b-4743-8e0c-c12c355a5b5c)
-
+![Tp_DesarrolloFinal](https://github.com/user-attachments/assets/591ec371-0075-42b6-b91f-6d869d4005f1>)
 
 ## Alcance Funcional 
 
