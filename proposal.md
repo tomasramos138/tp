@@ -14,7 +14,8 @@
 *Este sistema está diseñado para optimizar la gestión de ventas en supermercados, permitiendo a los usuarios registrarse y realizar compras desde la comodidad de su hogar. Además, cada cliente puede ser asignado a un distribuidor específico, mejorando así la eficiencia en la entrega y la organización interna del negocio.*
 
 ### Modelo
-![Tp_DesarrolloFinal](https://github.com/user-attachments/assets/591ec371-0075-42b6-b91f-6d869d4005f1>)
+![Tp_DesarrolloFinal](<img width="758" height="752" alt="SuperdmercadoDSW drawio" src="https://github.com/user-attachments/assets/b05cf4d5-573b-4ada-8616-df177f9aa30b" />
+)
 
 ## Alcance Funcional 
 
