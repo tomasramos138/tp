@@ -14,8 +14,8 @@
 *Este sistema está diseñado para optimizar la gestión de ventas en supermercados, permitiendo a los usuarios registrarse y realizar compras desde la comodidad de su hogar. Además, cada cliente puede ser asignado a un distribuidor específico, mejorando así la eficiencia en la entrega y la organización interna del negocio.*
 
 ### Modelo
-![Tp_DesarrolloFinal](<img width="758" height="752" alt="SuperdmercadoDSW drawio" src="https://github.com/user-attachments/assets/b05cf4d5-573b-4ada-8616-df177f9aa30b" />
-)
+<img width="758" height="752" alt="SuperdmercadoDSW drawio" src="https://github.com/user-attachments/assets/b05cf4d5-573b-4ada-8616-df177f9aa30b" />
+
 
 ## Alcance Funcional 
 
@@ -35,7 +35,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Cliente<br>2. CRUD Artículo<br>3. CRUD Categoría<br>4. CRUD Zona<br>5. CRUD Distribuidor<br>6. CRUD Pedido
-|CUU/Epic|1. Realizar pedido<br>2. Gestionar stock<br>3. Realizar o cancelar pago|
+|CUU/Epic|1. Realizar pedido<br>2. Gestionar stock<br>3. Realizar pago|
 
 
 ### Alcance Adicional Voluntario
