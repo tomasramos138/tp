@@ -39,5 +39,5 @@ Enlaces e información necesaria para la evaluación final del proyecto.
 
 | Documento                                                                                | Descripción                                                               |
 | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| **[✅ Información de Entrega Final]()**                             | Centraliza links de despliegue, credenciales y evidencia para la defensa. |
-| **[▶️ Demo de la Aplicación (Video)]()** | Enlace a la demostración en video del funcionamiento del sistema.         |
+| **[✅ Deploy]()**                             | Link del sistema despleagado |
+| **[▶️ Demo de la Aplicación (Video)]()** | Enlace del video demostrativo.         |
