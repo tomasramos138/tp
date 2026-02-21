@@ -19,7 +19,6 @@ Información detallada para desarrolladores sobre el frontend, el backend y la A
 | **[🚀 Documentación de la API](./api/README.md)**                                     | Punto de entrada a la documentación de la API, incluyendo endpoints y seguridad.   |
 | **[⚙️ Documentación del Backend](./backend-setup.md)**                                | Guías de instalación, configuración, TypeDoc y tests del servidor.                 |
 | **[🎨 Documentación del Frontend](./frontend-setup.md)**                              | Guías de instalación, Storybook, estructura de componentes y tests de la interfaz. |
-| **[📝 Documentación de librerias usadas](./gestion/eleccion-de-librerias/README.md)** | Comparativas entre distintas librerias consideradas para el proyecto.              |
 
 ---
 
