@@ -28,8 +28,7 @@ Proceso de desarrollo, seguimiento de tareas y colaboración del equipo.
 
 | Documento                                                                             | Descripción                                                                     |
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| **[📊 Gestión del Proyecto]()**                                    | Detalles sobre la metodología ágil, minutas y seguimiento de avances.           |
-| **[📈 Tablero de Tareas (Kanban)]()** | Enlace a GitHub Projects para el seguimiento en tiempo real de issues y tareas. |
+| **[📊 Gestión del Proyecto](./issues.md)**                                    | Detalles sobre tareas y seguimiento de avances.           |
 
 ---
 
