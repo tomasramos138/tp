@@ -67,3 +67,13 @@ El backend del sistema de supermercado es una API REST desarrollada para gestion
     </td>
   </tr>
 </table>
+
+---
+
+## Información adicional sobre la API
+
+| Documento                                    | Descripción                                                                     |
+| :------------------------------------------- | :------------------------------------------------------------------------------ |
+| **[Endpoints](./api/endPoints.md)**              | Lista completa de endpoints organizados por módulos                             |
+| **[Formato de Respuesta](./api/formatoRespuesta.md)** | Estructura de respuestas JSON para operaciones exitosas y errores          |
+| **[Seguridad](./api/seguridad.md)**              | Autenticación JWT, protección de rutas y validación                             |
