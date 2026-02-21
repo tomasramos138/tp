@@ -10,5 +10,5 @@ La aplicación está construida como una Aplicación de Página Única (SPA) que
 
 | Repositorio                    | Propósito                                                         |                               Enlace                               |
 | :----------------------------- | :---------------------------------------------------------------- | :----------------------------------------------------------------: |
-| 🖥️ **Frontend**      | Aplicación de Cliente (SPA) desarrollada en React y TypeScript.   | [Ir al Repositorio]() |
-| ⚙️ **Backend**       | Servidor de API RESTful construido con Node.js y MikroORM.        | [Ir al Repositorio]()  |
+| 🖥️ **Frontend**      | Aplicación de Cliente (SPA) desarrollada en React.   | [Ir al Repositorio](https://github.com/tomasramos138/supermercado-front-js) |
+| ⚙️ **Backend**       | Servidor de API RESTful construido con Node.js y MikroORM.        | [Ir al Repositorio](https://github.com/tomasramos138/supermercado-backend)  |
