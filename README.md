@@ -28,8 +28,8 @@ Proceso de desarrollo, seguimiento de tareas y colaboración del equipo.
 
 | Documento                                                                             | Descripción                                                                     |
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| **[📊 Gestión del Proyecto](./gestion/README.md)**                                    | Detalles sobre la metodología ágil, minutas y seguimiento de avances.           |
-| **[📈 Tablero de Tareas (Kanban)](https://github.com/orgs/upskill-team/projects/4/)** | Enlace a GitHub Projects para el seguimiento en tiempo real de issues y tareas. |
+| **[📊 Gestión del Proyecto]()**                                    | Detalles sobre la metodología ágil, minutas y seguimiento de avances.           |
+| **[📈 Tablero de Tareas (Kanban)]()** | Enlace a GitHub Projects para el seguimiento en tiempo real de issues y tareas. |
 
 ---
 
@@ -39,5 +39,5 @@ Enlaces e información necesaria para la evaluación final del proyecto.
 
 | Documento                                                                                | Descripción                                                               |
 | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| **[✅ Información de Entrega Final](./work-in-progress.md)**                             | Centraliza links de despliegue, credenciales y evidencia para la defensa. |
-| **[▶️ Demo de la Aplicación (Video)](https://youtu.be/OTLbJmjw4Js?si=Pm-G73h54bu7eoDX)** | Enlace a la demostración en video del funcionamiento del sistema.         |
+| **[✅ Información de Entrega Final]()**                             | Centraliza links de despliegue, credenciales y evidencia para la defensa. |
+| **[▶️ Demo de la Aplicación (Video)]()** | Enlace a la demostración en video del funcionamiento del sistema.         |
