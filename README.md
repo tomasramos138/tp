@@ -5,7 +5,6 @@
 | Documento                                               | Descripción                                                                          |
 | :------------------------------------------------------ | :----------------------------------------------------------------------------------- |
 | **[🎯 Propuesta del Proyecto](./proyecto/proposal.md)** 	  | Define el objetivo, el alcance y los requisitos funcionales y técnicos del proyecto. |
-| **[🏗️ Modelo actualizado](./proyecto/model.md)**        | Ofrece una visión acerca del modelo (ERD) actual del proyecto.                       |
 | **[🏗️ Arquitectura](./proyecto/arquitectura.md)**       | Ofrece una visión general de la arquitectura, tecnologías y decisiones de diseño.    |
 
 ---
