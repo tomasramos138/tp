@@ -37,5 +37,5 @@ Enlaces e información necesaria para la evaluación final del proyecto.
 
 | Documento                                                                                | Descripción                                                               |
 | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| **[✅ Deploy](https://supermercado-front-js-main.vercel.app/login)**                             | Link del sistema despleagado |
+| **[✅ Deploy](https://supermercado-front-js-lac.vercel.app/login)**                             | Link del sistema despleagado |
 | **[▶️ Demo de la Aplicación (Video)]()** | Enlace del video demostrativo.         |
