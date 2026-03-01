@@ -28,7 +28,7 @@ Proceso de desarrollo, seguimiento de tareas y colaboración del equipo.
 | Documento                                                                             | Descripción                                                                     |
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
 | **[📊 Gestión del Proyecto](./issues.md)**                                    | Detalles sobre tareas y seguimiento de avances.           |
-
+| **[📈 Tablero de Tareas](https://docs.google.com/spreadsheets/d/1g6qdL4TKXfOnkOMb7_98u6Ee0FIvmY4J3RM1vk0W3pg/edit?usp=sharing)** | Enlace a una hoja de seguimiento  de las tareas realizadas |
 ---
 
 ### ✅ Entregables y Evaluación
