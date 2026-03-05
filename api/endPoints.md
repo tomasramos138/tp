@@ -121,6 +121,6 @@ Nuestra API utiliza los principales métodos HTTP para interactuar con los recur
 | Método | Endpoint                        | Descripción                | 
 | :----- | :------------------------------ | :--------------------------| 
 | POST   | `/mercadopago/create-preference`| Crear orden de pago        | 
-| GET    | `/mercadopago//success`         | Verificar estado del pago  |  
+| GET    | `/mercadopago/success`         | Verificar estado del pago  |  
 
 ---
