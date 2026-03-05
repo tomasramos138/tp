@@ -39,7 +39,7 @@ Nuestra API utiliza los principales métodos HTTP para interactuar con los recur
 
 ---
 
-## Producto (`/api/courses`)
+## Producto (`/api/producto`)
 
 | Método | Endpoint                                        | Descripción                              | 
 | :----- | :---------------------------------------------  | :--------------------------------------- |
