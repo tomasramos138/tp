@@ -1,9 +1,5 @@
 # Formato de Respuesta de la API
 
-## Respuestas Exitosas (Códigos 2xx)
-
-Cuando una solicitud se procesa correctamente (códigos `200 OK`, `201 Created`, etc.), la respuesta contiene un objeto JSON con dos propiedades: `message` y `data`.
-
 ### Estructura
 
 ```json
