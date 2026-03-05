@@ -17,7 +17,7 @@
 
 La API proporciona operaciones CRUD para gestionar las siguientes entidades:
 
-- **Autenticación** - Registro, login, tokens y recuperación de contraseña
+- **Autenticación** - Registro, login y tokens
 - **Clientes** - Perfiles de compradores y administradores
 - **Productos** - Gestión completa de productos y su respectivo stock
 - **Categorias** - Tipos de productos disponibles
