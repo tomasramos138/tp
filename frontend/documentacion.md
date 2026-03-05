@@ -1,4 +1,4 @@
-# 📘Documentacion del backend
+# 📘Documentacion del frontend
 
 El frontend del sistema de supermercado es una aplicación web desarrollada con React, encargada de proporcionar la interfaz gráfica mediante la cual los usuarios interactúan con el sistema.
 Su función principal es consumir la API REST del backend, permitiendo realizar operaciones como:
