@@ -108,8 +108,7 @@ Nuestra API utiliza los principales métodos HTTP para interactuar con los recur
 
 | Método | Endpoint         | Descripción                      |
 | :----- | :------------------ | :---------------------------- | 
-| GET    | `/item-venta`       | Obtener todos los items       |   
-| GET    | `/item-venta`       | Obtener todas las solicitudes |  
+| GET    | `/item-venta`       | Obtener todos los items       |    
 | GET    | `/item-venta/:id`   | Obtener detalles de una item  |  
 | POST   | `/item-venta`       | Crear item                    |  
 | PUT    | `/item-venta/:id`   | Actualizar item               | 
