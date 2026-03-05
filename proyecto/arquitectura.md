@@ -2,7 +2,7 @@
 
 La arquitectura de nuestra aplicación se basa en separar completamente el Frontend del Backend. Esto significa que cada parte puede desarrollarse, probarse y desplegarse de manera independiente. Gracias a esta decisión, el sistema es más fácil de mantener, escalar y modificar a futuro.
 
-La aplicación está construida como una Aplicación de Página Única (SPA) que se comunica con el servidor a través de una API REST. Esta división de responsabilidades es la base de toda nuestra estructura técnica.
+La aplicación está construida como una Aplicación de Página Web que se comunica con el servidor a través de una API REST. Esta división de responsabilidades es la base de toda nuestra estructura técnica.
 
 ---
 
