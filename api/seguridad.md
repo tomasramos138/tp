@@ -63,7 +63,6 @@ Se confirma que el JWT es válido y otorga acceso al endpoint solicitado.
 Se verifica que el cuerpo (`body`), parámetros (`params`) y consultas (`query`) cumplan con:
 
 - **Tipos de datos correctos**: strings, números, booleanos, etc.
-- **Formatos esperados**: emails, URLs, fechas, IDs de MongoDB
 - **Campos requeridos**: presencia de datos obligatorios
 
 
