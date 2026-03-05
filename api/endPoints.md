@@ -43,7 +43,7 @@ Nuestra API utiliza los principales métodos HTTP para interactuar con los recur
 
 | Método | Endpoint                                        | Descripción                              | 
 | :----- | :---------------------------------------------  | :--------------------------------------- |
-| GET    | `/producto`                                     | Obtener todos los cursos publicados      |   
+| GET    | `/producto`                                     | Obtener todos los productos disponibles      |   
 | GET    | `/producto/stockTotal`                          | Obtener stock total del supermercado     | 
 | GET    | `/producto/searchCat`                           | Obtener producto por categoria           |  
 | GET    | `/producto/search`                              | Obtener producto por descripcion parcial |
