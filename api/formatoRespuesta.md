@@ -91,7 +91,7 @@ Cuando una solicitud falla, la respuesta contiene únicamente la propiedad `mess
 
 ```json
 {
-  "message": "Only professors can create courses"
+  "message": "Only administrator can create products"
 }
 ```
 
